@@ -1,5 +1,7 @@
 Hello!
 
-I'm an undergraduate CS student that is graduating in 2022!
+I have experience writing webapp backends in Node.js with MongoDB.
+I'm very family with OOP in C++ and Java.
+I've also utlized C++ Rest SDK to create backends for prototype smart devices.
 
 I'm looking to assist on any open-source projects.
